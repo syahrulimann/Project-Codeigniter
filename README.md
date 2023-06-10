@@ -1,6 +1,6 @@
 # Sewa Tenant Web-App
 
-Sistem berbasis web untuk mengajukan dan mengelola penyewaan tenant mall. Studi kasus: penyewaan tenant di Mall Gandaria City. Diperuntukkan sebagai project penelitian Ari Adrian. Dibangun menggunakan framework CodeIgniter 3. 
+Sistem berbasis web untuk mengajukan dan mengelola penyewaan tenant mall. Studi kasus: penyewaan tenant di Central Park, Jakarta Barat. Diperuntukkan sebagai project penelitian Ari Adrian. Dibangun menggunakan framework CodeIgniter 3. 
 
 
 ## Fitur
